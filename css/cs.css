@@ -1,0 +1,173 @@
+@media (max-width:1000px){
+.in{
+  height: 250px;
+  width: 490px;
+  padding-top: 50px;
+  padding-right:50px;
+}
+.rr{
+  padding-right: 100px;
+}
+.card{
+  border-color: black;
+  margin-bottom: 20px;
+  margin-right: 70px;
+}
+}
+
+h1
+{
+  font-family: "Ubuntu",sans-serif;
+  font-size: 2rem;
+  line-height:2;
+  font-weight:100;
+}
+h2,h5
+{
+  font-weight: bold;
+}
+h2
+{
+  font-family: "Montserrat-Bold 700",sans-serif;
+  font-size: 2rem;
+}
+h5{
+  color:white;
+}
+
+#features{
+  padding:5% 10% 8%;
+  background-color: white;
+}
+#footer{
+  background-color: #541690;
+  font-family: "Montserrat-Bold 700",sans-serif;
+  color: white;
+  padding:5% 10%;
+}
+#test{
+
+  font-family: "Montserrat-Bold 700",sans-serif;
+  font-size: 150%;
+  text-align: center;
+  background-color: #541690;
+  color: white;
+  line-height: 2;
+}
+#title{
+  background-color: #541690;
+  color:white;
+  text-align: center;
+}
+#pricing{
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+  font-family: "Montserrat-Bold 700",sans-serif;
+    text-align: center;
+    font-weight: 300;
+}
+
+.navbar-brand
+{
+  font-family: "Ubuntu",sans-serif;
+  font-size: 2rem;
+}
+.nav-item
+{
+  font-size: 1rem;
+  padding:0 1rem  0;
+}
+.nav-link
+{
+  font-size: 1rem;
+  color: #F7F7F7;
+
+}
+.navbar
+{
+  font-family: "Ubuntu",sans-serif;
+  padding-bottom: 5rem;
+}
+.container-fluid
+{
+padding: 5% 10% 10%;
+margin-bottom: 5rem;
+}
+
+.in{
+  padding-left: 2.5rem;
+/* transform: rotate(360deg);*/
+}
+.vm{
+  width:15rem;
+}
+
+.h3
+{
+  font-family: "Montserrat-Bold 700",sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.fea
+{
+
+  text-align: center;
+}
+
+.p1{
+  color:#8f8f8f;
+}
+.p2{
+  font-family: "Montserrat",sans-serif;
+  font-weight: 500;
+}
+
+.feaimg
+{
+  margin-bottom:1rem;
+}
+
+.carousel-item
+{
+padding:8%;
+}
+
+.testimg
+{
+  margin-bottom:3rem;
+}
+
+.rr
+{ padding :0 0 2% 20%
+}
+.pri{
+  padding: 2% 0;
+}
+
+.ing{
+  padding:1rem 0.5rem;
+}
+.dd{
+  width:200px;
+  border-width: 5px;
+}
+.link1{
+  color: white;
+  line-height: 2;
+}
+.link{
+  color: white;
+  text-decoration: none;
+  line-height: 2;
+}
+.link:hover{
+  color: grey;
+}
+.logo{
+  text-align: center;
+  font-size: 1rem;
+}
+.ing:hover{
+  color:#541690;
+}
